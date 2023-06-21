@@ -1,0 +1,15 @@
+{
+  "exclude": [
+    "**/bin",
+    "**/bower_components",
+    "**/jspm_packages",
+    "**/node_modules",
+    "**/obj",
+    "**/platforms"
+  ],
+  OpenAiSecret: {
+    "baseUrl": "",
+    "Key": "sk-7mrE5YaDulZDcF8uUWz1T3BlbkFJjwdX9ESvhSp39GQj26",
+    "Name": "MyTestKey"
+  }
+}
